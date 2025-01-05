@@ -44,7 +44,7 @@ LISTS :
         *
     Discription-->
 
-Alternative :
+attributess :
         photo nii dikheto wo discription dikhega
         
         ** All HTML Elements can have attributes.
