@@ -1,0 +1,67 @@
+Namaste Duniya!
+
+ Tags :
+    1. Opening Tags
+    2. Closing Tags
+    3. beech main content hota h
+    4. pura ka pura block ko Element kahte h.
+
+ Comments :
+    <!--Comment karo aise.-->
+
+ **HTML is not Case Sensitive.
+
+ HTML doc can be opened in 2 types :-
+    1.Text Editor
+    2. By Browser
+
+ html text elements
+    1. Block Element
+      paragraph -> <p> </p>
+      heading -> <h1> </h1>
+      list -> <ul> </ul>
+      <article> </article>
+      <section> </section>
+      etc...
+
+    2. INLINE elements  __( THEY are use to differentiate 
+        specific parts of text.. )
+            emphasiz -> <em> </em>
+            strong -> <strong> </strong>
+            links -> <a> </a>
+
+Empty Tags :
+    </br>
+    </img>
+    </input>
+
+LISTS : 
+    ORdered
+        1.
+        2.
+    Unordered
+        *
+        *
+    Discription-->
+
+Alternative :
+        photo nii dikheto wo discription dikhega
+        
+        ** All HTML Elements can have attributes.
+            id -> all elements,
+            class -> all elements.
+            src -> img.
+            href -> a tag.
+        ** Provide additiopnal info about elements.
+
+
+Meta Tag : 
+    define metadata about HTML doc
+    always go inside head tag.
+    used to specify:
+        charachter set.
+        page discription.
+        keywords.
+        author
+        viewPort
+    Not Displayed.
